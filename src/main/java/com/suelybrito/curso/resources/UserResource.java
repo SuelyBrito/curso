@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.suelybrito.curso.entities.User;
 
+		
 @RestController
 @RequestMapping(value = "/users")
 
